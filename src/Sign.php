@@ -6,6 +6,6 @@ class Sign
 {
     public static function signDocument()
     {
-        return "Dummy function";
+        return "Dummy Function";
     }
 }
