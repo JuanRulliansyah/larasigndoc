@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "JuanRulliansyah\\Larasigndoc\\": "packages/juanrulliansyah/larasigndoc/src"
+            "JuanRulliansyah\\Larasigndoc\\": "src/"
         }
     },
     "authors": [
