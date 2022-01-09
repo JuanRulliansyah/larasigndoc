@@ -1,0 +1,18 @@
+{
+    "name": "juanrulliansyah/larasigndoc",
+    "description": "Larasigndoc is a package that helps you to sign and verify PDF document.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JuanRulliansyah\\Larasigndoc\\": "packages/juanrulliansyah/larasigndoc/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "juanrulliansyah",
+            "email": "juanruliansyah@gmail.com"
+        }
+    ],
+    "require": {}
+}
